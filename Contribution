@@ -1,0 +1,5 @@
+PART C: AI Contribution Note
+
+AI tools used: Claude (Anthropic).
+What AI helped with: explaining the ADR format, writing the Minimax / Alpha-Beta and profiling code in SLE-2, and drafting and formatting this Word file from my SLE-2 results and SLE-3 model.
+What I did myself: chose Minimax vs Alpha-Beta and the decision to record, went through the results and the C4 model, checked that the numbers and component names here match my own work, and prepared to explain and defend the decision in the viva.
